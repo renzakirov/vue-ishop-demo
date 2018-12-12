@@ -1,5 +1,5 @@
 <template lang="pug">
-  div.filters-container
+  div.filters-container Filters
 </template>
 
 <script>

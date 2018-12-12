@@ -1,5 +1,5 @@
 <template lang="pug">
-  div.footer-container
+  div.footer-container Footer
 </template>
 
 <script>

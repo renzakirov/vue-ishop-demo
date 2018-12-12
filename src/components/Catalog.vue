@@ -1,5 +1,5 @@
 <template lang="pug">
-  div.catalog-container
+  div.catalog-container Catalog
 </template>
 
 <script>
